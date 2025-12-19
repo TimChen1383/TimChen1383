@@ -44,3 +44,11 @@
 
 ###
 
+## Setup tutorial video
+
+Check out the video for a run-through of the code, and setup instructions:
+
+<a href="https://youtu.be/z6qmP6JJvz8"><img alt="Click here for the tutorial video" src="https://github.com/user-attachments/assets/6c272c0c-1140-4e0c-a7a3-ba953baf7168" width="300" /></a>
+
+
+
