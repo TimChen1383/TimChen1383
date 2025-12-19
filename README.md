@@ -46,7 +46,7 @@
 
 ## Project Reel
 
-Check out the video for previous project:
+Check out the video of previous projects:
 
 <a href="https://www.youtube.com/watch?v=TgpIEo39wFI"><img alt="Click here for the tutorial video" src="https://github.com/user-attachments/assets/6c272c0c-1140-4e0c-a7a3-ba953baf7168" width="300" /><a href="https://www.youtube.com/watch?v=Pu6vngymjOk"><img alt="Click here for the tutorial video" src="https://github.com/user-attachments/assets/0824d630-013a-4568-8b67-511baa76c3f5" width="300" /></a>
 
