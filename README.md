@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a tech art enthusiast.</p>
+<p align="left">I am a tech art enthusiast!</p>
 
 ###
 
