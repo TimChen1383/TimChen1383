@@ -48,5 +48,5 @@
 
 Check out the video of previous projects:
 
-<a href="https://www.youtube.com/watch?v=TgpIEo39wFI"><img alt="Click here for the tutorial video" src="https://github.com/user-attachments/assets/6c272c0c-1140-4e0c-a7a3-ba953baf7168" width="300" /><a href="https://www.youtube.com/watch?v=Pu6vngymjOk"><img alt="Click here for the tutorial video" src="https://github.com/user-attachments/assets/0824d630-013a-4568-8b67-511baa76c3f5" width="300" /></a>
+<a href="https://www.youtube.com/watch?v=TgpIEo39wFI"><img alt="Click here for the tutorial video" src="https://github.com/user-attachments/assets/b1d80bb2-02c0-4c0c-9249-d76d372b6f6b" width="300" /><a href="https://www.youtube.com/watch?v=Pu6vngymjOk"><img alt="Click here for the tutorial video" src="https://github.com/user-attachments/assets/8c4562b5-6860-4521-b1ac-b7c4e4cb827d" width="300" /></a>
 
