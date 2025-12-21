@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
+  <img width="12" />
   <img src="https://github.com/user-attachments/assets/8e9272fb-a569-464d-ad96-eda02b6c1763" height="40" alt="perforce logo"/>
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/efadee2b-18c7-489b-9c2d-ae963b5cfb73" height="40" alt="Davinci" />
@@ -54,8 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jetbrains/000000" height="40" alt="jetbrains logo"  />
 </div>
