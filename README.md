@@ -14,14 +14,26 @@
 
 ###
 
-<h2 align="left">I work and code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/user-attachments/assets/8e9272fb-a569-464d-ad96-eda02b6c1763" height="40" alt="perforce logo"/>
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/efadee2b-18c7-489b-9c2d-ae963b5cfb73" height="40" alt="Davinci" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/dedc6c23-8623-4118-8ec4-6edb6da18821" height="40" alt="Houdini"/>
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/10f3a620-ca56-4635-9628-ba9b3979e8d2" height="40" alt="Nuke"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/fb5ab7c0-6608-4c39-8122-498f4334c897" height="40" alt="comfy"/>
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/78cce197-dee6-40f1-b755-88f50cf21677" height="40" alt="TouchDesigner_logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
   <img width="12" />
