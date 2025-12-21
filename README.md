@@ -25,9 +25,15 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/efadee2b-18c7-489b-9c2d-ae963b5cfb73" height="40" alt="Davinci" />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/15bb3083-5b5a-41cc-9b80-26a24f2f586a" height="40" alt="substance"/>
+  <img width="12" />
   <img src="https://github.com/user-attachments/assets/dedc6c23-8623-4118-8ec4-6edb6da18821" height="40" alt="Houdini"/>
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/10f3a620-ca56-4635-9628-ba9b3979e8d2" height="40" alt="Nuke"/>
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/e9e89b0c-36c9-4e64-bef4-745604da19b0" height="40" alt="Photoshop"/>
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/0cf6a48f-dc50-4a77-a121-45afb9d1360a" height="40" alt="embergen"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
