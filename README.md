@@ -53,11 +53,16 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/qt/41CD52" height="40" alt="qt logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/7acd30ee-315c-4f7a-a8bb-fcbc6471fb0e" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jetbrains/000000" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/4fed5b09-0a5f-4a2a-8444-051a0de0b809" height="40" alt="qgis logo"  />
+
 </div>
 
 ###
