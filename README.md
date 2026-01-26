@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a tech art enthusiast!</p>
+<p align="left">Adventurer of Technology and Art</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Unreal Engine Developer<br>📚 Now: Lead Technical Artist at Moonshine, Taipei<br>🎯 Ex: Technical Director at DNEG, London<br>🎲 Contact: qazpolity@gmail.com</p>
+<p align="left">✨ Real-time Developer<br>🎯 Now: Lead Technical Artist at Moonshine, Taipei<br>📚 Ex: Technical Director at DNEG, London<br>✉️ Contact: qazpolity@gmail.com</p>
 
 ###
 
