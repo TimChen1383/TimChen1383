@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Adventurer of Technology and Art</p>
+<p align="left">Adventurer of Technology and Art !</p>
 
 ###
 
