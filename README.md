@@ -62,7 +62,16 @@
 
 ###
 ## Projects
-- [PCG Asset](https://github.com/TimChen1383/PCGAsset) - precedural generation
+- 🏢[PCG Asset](https://github.com/TimChen1383/PCGAsset) - precedural content generation algorithm
+- 🏔[Easy Env](https://github.com/TimChen1383/EasyEnv) - generate guassian splats environment based on single image
+- 🔮[Online Material Library](https://github.com/TimChen1383/OnlineMaterialLibrary) - web based cross platform material library
+- 🪅[Material Library](https://github.com/TimChen1383/MaterialLibrary) - VFX, stylized and post process material library
+- ✏️[Gaussian Splat Editor](https://github.com/TimChen1383/GaussianSplatEditor) - gaussian splats editor
+- ⚙️[OpenGL](https://github.com/TimChen1383/OpenGL) - self developed render engine
+- 📃[Performance Optimization](https://github.com/TimChen1383/PerformanceOptimization) - performance optimization workflow
+- 🤖[Companion Robot](https://github.com/TimChen1383/CompanionRobot) - gameplay robot partner
+- 🚞[AI Matte Painting](https://github.com/TimChen1383/AIMattePainting) - AI driven 2.5D environment generation 
+- 🏃🏻‍♂️‍➡️[RT Painter](https://github.com/TimChen1383/RTPainter) - render target based interactive landscape
 
 
 ## Project Reel
