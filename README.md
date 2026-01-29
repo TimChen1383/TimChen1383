@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Tim</h1>
+<h1 align="left">Hey, I'm Tim👋</h1>
 
 ###
 
@@ -61,6 +61,9 @@
 </div>
 
 ###
+## Projects
+- [PCG Asset](https://github.com/TimChen1383/PCGAsset) - precedural generation
+
 
 ## Project Reel
 
