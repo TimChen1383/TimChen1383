@@ -64,6 +64,7 @@
 ## Projects
 - 🏔[Easy Env](https://github.com/TimChen1383/EasyEnv) - generate guassian splats environment based on single image
 - 🏢[PCG Asset](https://github.com/TimChen1383/PCGAsset) - precedural content generation algorithm
+- 🌏[UEGaussianSplatting](https://github.com/TimChen1383/UEGaussianSplatting) - dynamic streaming for rendering large scale gaussian splatting
 - 🔮[Online Material Library](https://github.com/TimChen1383/OnlineMaterialLibrary) - web based cross platform material library
 - 🪅[Material Library](https://github.com/TimChen1383/MaterialLibrary) - VFX, stylized and post process material library
 - ✏️[Gaussian Splat Editor](https://github.com/TimChen1383/GaussianSplatEditor) - gaussian splats editor
