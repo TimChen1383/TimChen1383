@@ -62,9 +62,9 @@
 
 ###
 ## Projects
+- 🌏[NanoGaussianSplatting](https://github.com/TimChen1383/NanoGaussianSplatting) - Nanite-style gaussian splatting render
 - 🏔[Easy Env](https://github.com/TimChen1383/EasyEnv) - generate guassian splats environment based on single image
 - 🏢[PCG Asset](https://github.com/TimChen1383/PCGAsset) - precedural content generation algorithm
-- 🌏[NanoGaussianSplatting](https://github.com/TimChen1383/NanoGaussianSplatting) - Nanite-style gaussian splatting render
 - 🔮[Online Material Library](https://github.com/TimChen1383/OnlineMaterialLibrary) - web based cross platform material library
 - 🪅[Material Library](https://github.com/TimChen1383/MaterialLibrary) - VFX, stylized and post process material library
 - ✏️[Gaussian Splat Editor](https://github.com/TimChen1383/GaussianSplatEditor) - gaussian splats editor
