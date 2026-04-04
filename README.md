@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Real-time Developer<br>🎯 Now: Lead Technical Artist at Moonshine, Taipei<br>📚 Ex: Technical Director at DNEG, London<br>✉️ Contact: qazpolity@gmail.com</p>
+<p align="left">✨ Real-time Developer<br>🎯 Now: Senior Developer at Moonshine, Taipei<br>📚 Ex: Technical Director at DNEG, London<br>✉️ Contact: qazpolity@gmail.com</p>
 
 ###
 
