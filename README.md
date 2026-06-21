@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Real-time Developer<br>🎯 Now: Senior Developer at Moonshine, Taipei<br>📚 Ex: Technical Director at DNEG, London<br>✉️ Contact: qazpolity@gmail.com</p>
+<p align="left">✨ Building somthing cool with AI and Gaussian Splatting now <br>📚 Ex: Technical Director at DNEG, London<br>🎯 EX: Senior Developer at Moonshine, Taipei<br>✉️ Contact: qazpolity@gmail.com</p>
 
 ###
 
